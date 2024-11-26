@@ -25,6 +25,7 @@ This project implements lane detection in road videos using OpenCV. The system i
    pip install -r requirements.txt
 
 3. Place a driving video in the input_videos/ folder.
+   
 4. Run the script:
    ``` bash
    python lane_detection.py
